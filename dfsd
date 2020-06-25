@@ -1,0 +1,23 @@
+warning: LF will be replaced by CRLF in cpt3.txt.
+The file will have its original line endings in your working directory
+[1mdiff --git a/cpt3.txt b/cpt3.txt[m
+[1mindex 5432906..e692d32 100644[m
+[1m--- a/cpt3.txt[m
+[1m+++ b/cpt3.txt[m
+[36m@@ -1 +1,16 @@[m
+ This is third chapter, we learn here about diiferent different workplaces, how we will work with each other and controll a project and complete that.[m
+[32m+[m[32mafasdf[m
+[32m+[m[32mad[m
+[32m+[m[32mf[m
+[32m+[m[32masds[m
+[32m+[m[32mf[m
+[32m+[m[32msa[m
+[32m+[m[32md[m
+[32m+[m[32mf[m
+[32m+[m[32msad[m
+[32m+[m[32mf[m
+[32m+[m[32msdaf[m
+[32m+[m
+[32m+[m[32ma[m
+[32m+[m[32mdf[m
+[41m+[m
